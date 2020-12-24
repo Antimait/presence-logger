@@ -1,21 +1,6 @@
 ## **presence-logger**
 
-This is the application that was developed in the last article of the Antima for Iot series on http://antima.it.
-
-Clone it and install the requirements via:
-
-```bash
-git clone https://github.com/Antimait/presence-logger
-cd presence-logger
-pip install -r requirements.txt
-python3 presence.py.py
-```
-
-The .ino sketch can be uploaded to your Arduino using the Arduino IDE.
-
-**[ita]**
-
-Questa è l'applicazione sviluppata nell'ultimo articolo della serie Antima for Iot su http://antima.it.
+Questa è l'applicazione sviluppata nel [seguente articolo](https://antima.it/acquisizione-ed-elaborazione-dati-con-arduino-casi-duso-avanzati-della-libreria-antimait/) della serie Antima for Iot.
 
 Clona, installa le dipendenze ed esegui tramite:
 
@@ -23,7 +8,23 @@ Clona, installa le dipendenze ed esegui tramite:
 git clone https://github.com/Antimait/presence-logger
 cd presence-logger
 pip install -r requirements.txt
-python3 presence.py.py
+python3 presence.py
 ```
 
 Lo sketch .ino può essere caricato sull'arduino utilizzando l'IDE di Arduino.
+
+**[eng]**
+
+This is the application that was developed in [this article](https://antima.it/acquisizione-ed-elaborazione-dati-con-arduino-casi-duso-avanzati-della-libreria-antimait/) of the Antima for Iot series.
+
+Clone it and install the requirements via:
+
+```bash
+git clone https://github.com/Antimait/presence-logger
+cd presence-logger
+pip install -r requirements.txt
+python3 presence.py
+```
+
+The .ino sketch can be uploaded to your Arduino using the Arduino IDE.
+
